@@ -1,5 +1,5 @@
 ---
-title: 'Darkness - Astro Theme'
+title: 'FIRST 2023-2024'
 description: 'A heavily modified dark theme with Three.js particles and intense animations'
 image: '/favicon.svg'
 github: 'https://github.com/yourusername/astro-darkness'
